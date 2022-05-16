@@ -1,6 +1,6 @@
 # Tiers
 
-There are three tiers available to users:
+Snowsight provides three tiers available to users:
 
 1. Premium Tier
    * Lowest latency connection to mempool
