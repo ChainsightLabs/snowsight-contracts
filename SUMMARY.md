@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Snowsight](README.md)
-  * [Payment](snowsight/payment.md)
-    * [Tiers](snowsight/payment/tiers.md)
-  * [Authentication](snowsight/authentication.md)
   * [Services](snowsight/services/README.md)
     * [Mempool Stream](snowsight/services/mempool-stream/README.md)
       * [web3.py](snowsight/services/mempool-stream/web3.py.md)
@@ -13,5 +10,8 @@
       * [web3.py](snowsight/services/transaction-propagator/web3.py.md)
       * [ethers.js](snowsight/services/transaction-propagator/ethers.js.md)
       * [ethers.rs](snowsight/services/transaction-propagator/ethers.rs.md)
+  * [Payment](snowsight/payment.md)
+    * [Tiers](snowsight/payment/tiers.md)
+  * [Authentication](snowsight/authentication.md)
   * [Tips](snowsight/tips.md)
   * [About](snowsight/about.md)
