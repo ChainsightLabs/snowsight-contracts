@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Snowsight](README.md)
-  * [Payment](snowsight/payment/README.md)
+  * [Payment](snowsight/payment.md)
     * [Tiers](snowsight/payment/tiers.md)
   * [Authentication](snowsight/authentication.md)
   * [Services](snowsight/services/README.md)
