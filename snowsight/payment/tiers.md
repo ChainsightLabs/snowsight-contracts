@@ -1,6 +1,6 @@
 # Tiers
 
-There are 3 Tiers available to users:
+There are three tiers available to users:
 
 1. Premium Tier
    * Lowest latency connection to mempool
