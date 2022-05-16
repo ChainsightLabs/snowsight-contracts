@@ -1,6 +1,6 @@
 # Tiers
 
-There are 3 Tiers available to users
+There are 3 Tiers available to users:
 
 1. Premium Tier
    * Lowest latency connection to mempool
@@ -12,8 +12,4 @@ There are 3 Tiers available to users
    * Average coverage (\~75%)
 3. Trial Tier
    * No cost connection to mempool
-   *   Low priority queue, mempool access will be delayed and no transaction coverage guarantee
-
-
-
-\
+   * Low priority queue, mempool access will be delayed and no transaction coverage guarantee
