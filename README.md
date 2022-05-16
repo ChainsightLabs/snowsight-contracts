@@ -12,7 +12,7 @@ Snowsight App
 
 Avalanche C-Chain is an EVM-compatible smart contract chain with fast block finality via a novel PoS consensus mechanism.&#x20;
 
-Despite its superior speed, some of Avalanche C-Chain's design trade-offs that provide users with fast block finality and a more pleasant user experience result in a mempool only available to users with vast amounts of capital.  As a result, only sophisticated actors have thus far been able to profit from the [intrinsic MEV](https://www.mev.wiki) that exists on Avalanche C-Chain.&#x20;
+Despite its superior speed, some of Avalanche C-Chain's design trade-offs that provide users with fast block finality and a more pleasant user experience result in a mempool only available to users with vast amounts of capital.  As a result, only sophisticated actors have thus far been able to profit from the [intrinsic MEV](https://www.mev.wiki/) that exists on Avalanche C-Chain.&#x20;
 
 But no longer.
 
