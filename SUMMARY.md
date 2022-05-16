@@ -14,4 +14,5 @@
     * [Tiers](snowsight/payment/tiers.md)
   * [Authentication](snowsight/authentication.md)
   * [Tips](snowsight/tips.md)
+  * [Contracts](snowsight/contracts.md)
   * [About](snowsight/about.md)
