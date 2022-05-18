@@ -2,11 +2,11 @@
 
 Mempool data on Avalanche C-Chain is only shared amongst validator nodes.  When any node receives a pending transaction, it is randomly gossiped to ten other validator nodes in its peer list regardless of stake.\
 \
-The Mempool Stream solves three problems for users:
+The Mempool Stream solves three core problems for users:
 
-1. Technical expense barrier: Running a validator is technically difficult and time consuming
-2. Capital expense barrier: Each validator node requires 2000 AVAX to be staked
-3. Infrastructure expense barrier: A single validator node does not provide an accurate view of the mempool due to the present pending transaction gossiping algorithm
+1. Technical: Running a validator is technically difficult and time consuming
+2. Capital: Each validator node requires 2000 AVAX to be staked
+3. Infrastructure: A single validator node does not provide an accurate view of the mempool due to the present pending transaction gossiping algorithm
 
 The Mempool Stream solves these problems by aggregating all pending transactions from Snowsight's validator node network and streamlines them into one source for users. &#x20;
 
