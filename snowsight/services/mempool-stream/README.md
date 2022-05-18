@@ -1,6 +1,6 @@
 # Mempool Stream
 
-Mempool data on Avalanche C-Chain is only shared amongst validator nodes.  When any node receives a pending transaction, is randomly gossips that transaction to ten other validator nodes in its peer list.  \
+Mempool data on Avalanche C-Chain is only shared amongst validator nodes.  When any node receives a pending transaction, it is randomly gossiped to ten other validator nodes in its peer list regardless of stake.\
 \
 The Mempool Stream solves three problems for users:
 
