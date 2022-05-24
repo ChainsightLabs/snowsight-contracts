@@ -13,3 +13,5 @@ Snowsight provides three tiers available to users:
 3. Trial Tier
    * No cost connection to mempool
    * Lowest priority access, mempool access can be delayed and no pending transaction coverage guarantees
+
+\*only Premium Tier is eligible to use the Transaction Propagator&#x20;
