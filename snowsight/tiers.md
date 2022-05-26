@@ -2,8 +2,9 @@
 
 Snowsight provides three tiers available to users:
 
-1. Premium Tier
-   * Lowest latency connection to mempool, highest priority access for institutional users
+1. Premium Tier\*
+   * Lowest latency connection to mempool, with up to 3 concurrent websocket connections
+   * Highest priority access for institutional users
    * **𝛿** (pending -> finalized): \~2.1 ms
    * Per-block pending transaction coverage: >95%
 2. Standard Tier
