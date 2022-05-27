@@ -6,7 +6,7 @@ The Mempool Stream solves three core problems for users:
 
 1. Technical: Running a validator is technically difficult and time consuming
 2. Capital: Each validator node requires 2000 AVAX to be staked
-3. Infrastructure: A single validator node does not provide an accurate view of the mempool due to the present pending transaction gossiping algorithm
+3. Infrastructure: A single validator node does not provide an accurate view of the mempool
 
 The Mempool Stream solves these problems by aggregating all pending transactions from Snowsight's validator node network and streamlines them into one source for users. &#x20;
 

@@ -2,7 +2,7 @@
 
 Snowsight is not a free service; users pay for access to Snowsight in AVAX for a user-determined length of time.
 
-Payment amount is determined by the number of Avalanche blocks mined multiplied by a Payment Tier Rate, which shall be adjusted by Chainsight over time. However, payments are always kept at the payment rate from which they were recevied by the smart contract.
+Payment amount is determined by the amount of time a user desires to activate the service.  The payment rate may be adjusted by Chainsight over time depending on market conditions.  However, payments are always kept at the payment rate from which they were received by the smart contract.
 
 The easiest way to pay for access to Snowsight is through the [web interface](https://snowsight.chainsight.dev), on the 'Manage' tab. &#x20;
 
